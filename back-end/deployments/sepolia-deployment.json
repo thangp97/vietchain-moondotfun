@@ -1,0 +1,18 @@
+{
+  "network": "sepolia",
+  "contractName": "TokenFactory",
+  "contractAddress": "0x67D5aA821b0D15D0AF2f998553e35034F03d82aF",
+  "deployer": "0x5F53CC0b56b70131cdc8e602AaAb88Ab0743FECd",
+  "deploymentHash": "0xf41d3bacd1810e2ddff2bc44e63c877ee9758d7851bc9a65e07305c5b60f99fe",
+  "gasUsed": "2513454",
+  "timestamp": "2025-06-10T15:57:36.675Z",
+  "blockNumber": 8519250,
+  "constants": {
+    "MAX_SUPPLY": "1000000000000000000000000",
+    "INIT_SUPPLY_PERCENT": "20%",
+    "CREATION_FEE": "0.0001 ETH",
+    "FUNDING_GOAL": "24 ETH",
+    "UNISWAP_V2_FACTORY": "0xF62c03E08ada871A0bEb309762E260a7a6a880E6",
+    "UNISWAP_V2_ROUTER": "0xeE567Fe1712Faf6149d80dA1E6934E354124CfE3"
+  }
+}
