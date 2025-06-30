@@ -199,7 +199,6 @@ const TokenDetail = () => {
                             <p><strong>Remaining Tokens Available for Sale:</strong> {remainingTokens} / 800,000</p>
                             <div className="progress-bar">
                                 <div className="progress" style={{ width: `${totalSupplyPercentage}%` }}></div>
-                                <div>{totalSupplyPercentage}</div>
                             </div>
                         </div>
                     </div>
